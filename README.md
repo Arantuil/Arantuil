@@ -1,8 +1,42 @@
 # 🛠️I’m currently working on:
 ### <img src="https://user-images.githubusercontent.com/67122764/181295017-c2c8f8c8-3cb2-4246-8933-d2101c552072.png" style="width:28px;height:28px;" /> https://energywebnfts.com/
 
+## ⚡Languages/skills/tools
+<p align="left"> 
+    <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+    </a>
+    <a href="https://firebase.google.com/" target="_blank">
+        <img src="https://user-images.githubusercontent.com/67122764/181308062-0a948c8a-f37b-482e-9341-9cc5f1733200.png" alt="firebase" width="40" height="40" />
+    </a>
+    <a href="https://www.python.org" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+    </a>
+    <a href="https://reactjs.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /> 
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://user-images.githubusercontent.com/67122764/181305966-56b24853-4f98-4977-a5c5-e5f72dd2a1a1.png" alt="visualstudiocode" width="40" height="40" /> 
+    </a>
+    <a href="https://inkscape.org/" target="_blank">
+        <img src="https://user-images.githubusercontent.com/67122764/181305755-81a8b312-e79e-45b5-b879-54376ac85375.png" alt="inkscape" width="40" height="40" /> 
+    </a>
+    <a href="https://docs.soliditylang.org/en/v0.8.15/" target="_blank">
+        <img src="https://user-images.githubusercontent.com/67122764/181307779-2934413f-33fb-42c4-88fb-017d501a225e.png" alt="solidity" width="40" height="40" /> 
+    </a>
+</p>
+
 ## 💬Most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arantuil&layout=compact)](https://github.com/arantuil/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arantuil&layout=compact&theme=dark)](https://github.com/arantuil/github-readme-stats)
 
 ## 💯Completed projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arantuil&repo=Govee-Discord-Bot&theme=dark)](https://github.com/arantuil/Govee-Discord-Bot)
