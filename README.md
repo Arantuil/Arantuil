@@ -25,7 +25,7 @@
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /> 
     </a>
     <a href="https://code.visualstudio.com/" target="_blank">
-        <img src="https://user-images.githubusercontent.com/67122764/181305966-56b24853-4f98-4977-a5c5-e5f72dd2a1a1.png" alt="visualstudiocode" width="40" height="40" /> 
+        <img src="https://user-images.githubusercontent.com/67122764/181305966-56b24853-4f98-4977-a5c5-e5f72dd2a1a1.png" alt="visual-studio-code" width="40" height="40" /> 
     </a>
     <a href="https://inkscape.org/" target="_blank">
         <img src="https://user-images.githubusercontent.com/67122764/181305755-81a8b312-e79e-45b5-b879-54376ac85375.png" alt="inkscape" width="40" height="40" /> 
