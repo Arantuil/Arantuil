@@ -33,6 +33,12 @@
     <a href="https://docs.soliditylang.org/en/v0.8.15/" target="_blank">
         <img src="https://user-images.githubusercontent.com/67122764/181307779-2934413f-33fb-42c4-88fb-017d501a225e.png" alt="solidity" width="40" height="40" /> 
     </a>
+    <a href="https://graphql.org/" target="_blank">
+        <img src="https://user-images.githubusercontent.com/67122764/184964240-453e98f0-dbdf-4ae3-9fd5-7b7480a5881d.png" alt="graphql" width="40" height="40" /> 
+    </a>
+    <a href="https://redis.io/" target="_blank">
+        <img src="https://user-images.githubusercontent.com/67122764/184964246-19263fc0-b088-45db-82be-e6158b96342b.png" alt="redis" width="40" height="40" /> 
+    </a>
 </p>
 
 ## 💬Most used languages
