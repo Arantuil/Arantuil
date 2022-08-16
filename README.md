@@ -4,10 +4,10 @@
 ## ⚡Languages/skills/tools
 <p align="left"> 
     <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+        <img src="https://user-images.githubusercontent.com/67122764/184965798-154b041d-0e8a-4b80-8c7a-57b0b4a94558.svg" alt="css3" width="40" height="40" />
     </a>
     <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+        <img src="https://user-images.githubusercontent.com/67122764/184965499-f6626be1-1897-43b1-94eb-c5377bb2640f.svg" alt="html5" width="40" height="40" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
@@ -16,10 +16,10 @@
         <img src="https://user-images.githubusercontent.com/67122764/181308062-0a948c8a-f37b-482e-9341-9cc5f1733200.png" alt="firebase" width="40" height="40" />
     </a>
     <a href="https://www.python.org" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+        <img src="https://user-images.githubusercontent.com/67122764/184966271-520cd045-7a89-4e91-b498-e7cdbb6bc386.png" alt="python" width="40" height="40" />
     </a>
     <a href="https://reactjs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+        <img src="https://user-images.githubusercontent.com/67122764/184966115-10b27a91-754d-4f87-bc9d-5fdd0fbd6c06.png" alt="react" width="40" height="40" />
     </a>
     <a href="https://tailwindcss.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /> 
