@@ -39,9 +39,12 @@
     <a href="https://redis.io/" target="_blank">
         <img src="https://user-images.githubusercontent.com/67122764/184964246-19263fc0-b088-45db-82be-e6158b96342b.png" alt="redis" width="40" height="40" /> 
     </a>
+       <a href="https://nodejs.org/en/" target="_blank">
+        <img src="https://user-images.githubusercontent.com/67122764/185254882-9bfb23d4-7096-4180-8f39-b0ee9392449f.png" alt="redis" width="40" height="40" /> 
+    </a>
 </p>
 
-## 💬Most used languages
+## 💬Most used languages![nodejslogo]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arantuil&layout=compact&theme=dark)](https://github.com/arantuil/github-readme-stats)
 
 ## 💯Completed projects
