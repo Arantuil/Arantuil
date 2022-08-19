@@ -44,7 +44,7 @@
     </a>
 </p>
 
-## 💬Most used languages![nodejslogo]
+## 💬Most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arantuil&layout=compact&theme=dark)](https://github.com/arantuil/github-readme-stats)
 
 ## 💯Completed projects
