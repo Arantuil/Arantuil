@@ -1,6 +1,6 @@
 # 🛠️I’m currently working on:
 ### <img src="https://user-images.githubusercontent.com/67122764/181295017-c2c8f8c8-3cb2-4246-8933-d2101c552072.png" style="width:28px;height:28px;" /> https://energywebnfts.com/ NFT pricedata aggregator webapp
-### <img src="https://user-images.githubusercontent.com/67122764/186731205-7dfaaaf8-0b0b-4b11-a8bc-bb654f7695e9.png" style="width:28px;height:28px;" /> https://tubbyturtles.com/ Stake-able ERC-721 NFTs
+### <img src="https://user-images.githubusercontent.com/67122764/186731205-7dfaaaf8-0b0b-4b11-a8bc-bb654f7695e9.png" style="width:28px;height:28px;" /> https://tubbyturtles.com/ Stake-able ERC-721 Turtle NFTs
 
 ## ⚡Languages/skills/tools
 <p align="left"> 
