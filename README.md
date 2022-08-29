@@ -50,5 +50,3 @@
 
 ## 💯Completed projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arantuil&repo=Govee-Discord-Bot&theme=dark)](https://github.com/arantuil/Govee-Discord-Bot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arantuil&repo=Guts-ticket-notifier&theme=dark)](https://github.com/arantuil/Guts-ticket-notifier)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arantuil&repo=Weather-Discord-Bot&theme=dark)](https://github.com/arantuil/Weather-Discord-Bot)
