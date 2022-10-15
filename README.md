@@ -49,6 +49,3 @@
 
 ## 💬Most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arantuil&layout=compact&theme=dark)](https://github.com/arantuil/github-readme-stats)
-
-## 💯Completed projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arantuil&repo=Govee-Discord-Bot&theme=dark)](https://github.com/arantuil/Govee-Discord-Bot)
