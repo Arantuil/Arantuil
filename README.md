@@ -1,7 +1,7 @@
 # 🛠️I’m currently working on:
 ### <img src="https://user-images.githubusercontent.com/67122764/181295017-c2c8f8c8-3cb2-4246-8933-d2101c552072.png" style="width:28px;height:28px;" /> https://energywebnfts.com/ NFT pricedata aggregator webapp (NFTs on EWC)
+### <img src="https://user-images.githubusercontent.com/67122764/197252556-00818aba-c91b-4a44-9b7d-9ef12745014c.png" style="width:28px;height:28px;" /> https://txtracker.energywebnfts.com/ Webapp that tracks transactions of 500 or more EWT
 ### <img src="https://user-images.githubusercontent.com/67122764/188759797-757f31c5-b885-4735-9e77-472ece19af3e.png" style="width:28px;height:28px;" /> https://place.energywebnfts.com/ Web3 version of r/place, deployed on EWC
-
 ### <img src="https://user-images.githubusercontent.com/67122764/186731205-7dfaaaf8-0b0b-4b11-a8bc-bb654f7695e9.png" style="width:28px;height:28px;" /> https://tubbyturtles.com/ Stake-able ERC-721 Turtle NFTs
 
 ## ⚡Languages/skills/tools
