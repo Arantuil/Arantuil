@@ -1,5 +1,5 @@
 # 🛠️I’m currently working on:
-### <img src="https://user-images.githubusercontent.com/67122764/181295017-c2c8f8c8-3cb2-4246-8933-d2101c552072.png" style="width:28px;height:28px;" /> https://energywebnfts.com/ NFT pricedata aggregator webapp (NFTs on EWC)
+### <img src="https://user-images.githubusercontent.com/67122764/181295017-c2c8f8c8-3cb2-4246-8933-d2101c552072.png" style="width:28px;height:28px;" /> https://energywebnfts.com/ NFT pricedata aggregator for NFTs on EWC + NFT portfolio tracker
 <dl>
   <dd>
     <dl>
