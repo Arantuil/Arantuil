@@ -25,7 +25,7 @@
   </dd>
 </dl>
 
-### <img src="https://user-images.githubusercontent.com/67122764/186731205-7dfaaaf8-0b0b-4b11-a8bc-bb654f7695e9.png" style="width:28px;height:28px;" /> https://tubbyturtles.com/ Stake-able ERC-721 Turtle NFTs
+### <img src="https://user-images.githubusercontent.com/67122764/186731205-7dfaaaf8-0b0b-4b11-a8bc-bb654f7695e9.png" style="width:28px;height:28px;" /> https://tubbyturtles.com/ Stakable ERC-721 Turtle NFTs
 
 ## ⚡Languages/skills/tools
 <p align="left"> 
