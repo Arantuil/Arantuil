@@ -65,8 +65,11 @@
     <a href="https://redis.io/" target="_blank">
         <img src="https://user-images.githubusercontent.com/67122764/184964246-19263fc0-b088-45db-82be-e6158b96342b.png" alt="redis" width="40" height="40" /> 
     </a>
-       <a href="https://nodejs.org/en/" target="_blank">
+    <a href="https://nodejs.org/en/" target="_blank">
         <img src="https://user-images.githubusercontent.com/67122764/185254882-9bfb23d4-7096-4180-8f39-b0ee9392449f.png" alt="redis" width="40" height="40" /> 
+    </a>
+    <a href="https://vuejs.org/" target="_blank">
+        <img src="https://user-images.githubusercontent.com/67122764/200336719-6a58183e-ccbd-482d-8f91-0ef55aeb54f1.png" alt="redis" width="40" height="40" /> 
     </a>
 </p>
 
