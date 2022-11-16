@@ -3,7 +3,7 @@
 <dl>
   <dd>
     <dl>
-      <dd> <img src="https://user-images.githubusercontent.com/67122764/197252556-00818aba-c91b-4a44-9b7d-9ef12745014c.png" style="marginLeft:25px;width:28px;height:28px;" /> https://txtracker.energywebnfts.com/ Webapp that tracks transactions of 500 or more EWT
+      <dd> <img src="https://user-images.githubusercontent.com/67122764/197252556-00818aba-c91b-4a44-9b7d-9ef12745014c.png" style="marginLeft:25px;width:28px;height:28px;" /> https://txtracker.energywebnfts.com/ Webapp that tracks transactions of 500 EWT or more
       </dd>
     </dl>
   </dd>
