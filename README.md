@@ -11,7 +11,7 @@
 <dl>
   <dd>
     <dl>
-      <dd> <img src="https://user-images.githubusercontent.com/67122764/197263536-955ccdd0-f902-4a87-9b83-406cbc58af31.png" style="width:28px;height:28px;" /> https://ewtstake.energywebnfts.com/ Insights into the EWT consortia staking pool returns per hour/day/week.
+      <dd> <img src="https://user-images.githubusercontent.com/67122764/197263536-955ccdd0-f902-4a87-9b83-406cbc58af31.png" style="width:28px;height:28px;" /> https://ewtstake.energywebnfts.com/ Insights into the EWT staking greenpool returns per hour/day/week.
       </dd>
     </dl>
   </dd>
