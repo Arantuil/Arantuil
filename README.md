@@ -72,7 +72,7 @@
         <img src="https://user-images.githubusercontent.com/67122764/200336719-6a58183e-ccbd-482d-8f91-0ef55aeb54f1.png" alt="redis" width="40" height="40" /> 
     </a>
       <a href="https://nodered.org/about/" target="_blank">
-        <img src="https://user-images.githubusercontent.com/67122764/222170422-a7392eb6-4109-4e90-9c16-c95275e50c48.png" alt="node-red" width="40" height="40" /> 
+        <img src="https://user-images.githubusercontent.com/67122764/222170994-98273b24-de12-4a86-84be-706461f5da5d.png" alt="node-red" width="40" height="40" /> 
     </a>
 </p>
 
