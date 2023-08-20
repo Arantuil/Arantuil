@@ -36,6 +36,8 @@ style="marginLeft:25px;width:28px;height:28px;" /> https://auction.energywebnfts
 
 ### <img src="https://user-images.githubusercontent.com/67122764/186731205-7dfaaaf8-0b0b-4b11-a8bc-bb654f7695e9.png" style="width:28px;height:28px;" /> https://tubbyturtles.com/ Stakable ERC-721 Turtle NFTs
 
+### <img src="https://github.com/Arantuil/Arantuil/assets/67122764/08ebc977-9351-4789-adc8-b1c6459f1f81" style="width:28px;height:28px;" /> https://energywebspark.com/ On-chain crowdfunding platform deployed on EWC
+
 ## ⚡Languages/skills/tools
 <p align="left"> 
     <a href="https://www.w3schools.com/css/" target="_blank">
