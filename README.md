@@ -4,7 +4,7 @@
   <dd>
     <dl>
       <dd> <img src="https://user-images.githubusercontent.com/67122764/227653974-50e719ca-b454-4072-af25-71617781d960.png"
-style="marginLeft:25px;width:28px;height:28px;" /> https://auction.energywebnfts.com/ NFT auctionhouse
+style="marginLeft:25px;width:28px;height:28px;" /> https://auction.energywebnfts.com/ NFT auctionhouse (multi-chain)
       </dd>
     </dl>
   </dd>
@@ -35,6 +35,22 @@ style="marginLeft:25px;width:28px;height:28px;" /> https://auction.energywebnfts
 </dl>
 
 ### <img src="https://user-images.githubusercontent.com/67122764/186731205-7dfaaaf8-0b0b-4b11-a8bc-bb654f7695e9.png" style="width:28px;height:28px;" /> https://tubbyturtles.com/ Stakable ERC-721 Turtle NFTs
+<dl>
+  <dd>
+    <dl>
+      <dd> <img src="https://github.com/Arantuil/Arantuil/assets/67122764/039f1567-366a-47d6-bc4f-e2b1ccf79df3" style="width:28px;height:28px;" /> https://farm.tubbyturtles.com/ SHL/EWT Liquidity pool farm (currently rewards expired) 
+      </dd>
+    </dl>
+  </dd>
+</dl>
+<dl>
+  <dd>
+    <dl>
+      <dd> <img src="https://github.com/Arantuil/Arantuil/assets/67122764/d70f7c61-71a7-413c-9482-39f313b0fd44" style="width:28px;height:28px;" /> https://play.tubbyturtles.com/ Smartcontract chance games using SHL tokens
+      </dd>
+    </dl>
+  </dd>
+</dl>
 
 ### <img src="https://github.com/Arantuil/Arantuil/assets/67122764/08ebc977-9351-4789-adc8-b1c6459f1f81" style="width:28px;height:28px;" /> https://energywebspark.com/ On-chain crowdfunding platform deployed on EWC
 
